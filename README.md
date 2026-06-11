@@ -27,6 +27,7 @@
 | PDF24 | 15+ | 15 | No | ★★★★☆ |
 | Sejda | 10+ | 5 | Yes (3 tasks/day) | ★★★☆☆ |
 | Adobe Acrobat Online | 5+ | 20 | Yes (required) | ★★★☆☆ |
+| **[PDF Toolbox](https://pdftoolbox-three.vercel.app)** | **8+** | **1** | **No** | **★★★★☆** |
 
 ### Top Pick: EditPDFree
 
